@@ -1,1 +1,27 @@
 /* Inserta tu código aqui */
+
+.header{
+    background-color: black;
+    color: white;
+    text-align:center;
+    margin: auto;
+}
+.menu img{
+    width: 90%
+}
+.menu ul a{
+    list-style: none;    
+}
+.menu ul li{
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    text-align:right;
+}
+.listaf ul{
+    list-style: none;
+}
+.listaf{
+    display: inline-block;
+   
+}
